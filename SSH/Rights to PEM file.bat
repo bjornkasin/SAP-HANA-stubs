@@ -1,6 +1,6 @@
 ::# Set Key File Variable:
 ::#    Set Key="%UserProfile%\.ssh\id_rsa"
-    Set Key = "C:\TST\HTA+Norway+-+S4+2021+activated+content.pem"
+    Set Key="C:\TST\HTA+Norway+-+S4+2021+activated+content.pem"
     
 ::# Remove Inheritance:
     Icacls %Key% /c /t /Inheritance:d
