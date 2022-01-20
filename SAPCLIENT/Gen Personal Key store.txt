@@ -1,0 +1,27 @@
+####
+#### Create a sapcli.pse
+####
+
+mkdir ~/.ssl
+# Download the public root certificate used by HANA Cloud
+wget --no-check-certificate https://dl.cacerts.digicert.com/DigiCertGlobalRootCA.crt.pem -O ~/.ssl/DigiCertGlobalRootCA.crt.pem
+# Show the command help for the sapgenpse
+sapgenpse -h
+# SECDIR environment variable is required when using the commoncrypto library
+export SECUDIR=~/sap/hdbclient
+# macOS only
+export DYLD_LIBRARY_PATH=~/sap/hdbclient
+# Create a PSE (Personal Security Environment) which will be used to contain the public root certificate of the HANA Client.  
+# Press enter twice to not provide a pin
+sapgenpse gen_verify_pse -p "$SECUDIR/sapcli.pse"
+
+####
+#### Add CA Cert to sapcli.pse
+####
+
+# Add the certificate to the PSE
+sapgenpse maintain_pk -p "$SECUDIR/sapcli.pse" -a ~/.ssl/DigiCertGlobalRootCA.crt.pem
+# View the contents of the PSE
+sapgenpse maintain_pk -p "$SECUDIR/sapcli.pse" -l
+# Connect using the SAP commoncrypto library rather than OpenSSL.
+hdbsql -sslprovider commoncrypto -n 3b2gf55e-4214-4bd9-adfc-f547d8e2d384.hana.trial-us10.hanacloud.ondemand.com:443 -u DBADMIN -p Hana1234
