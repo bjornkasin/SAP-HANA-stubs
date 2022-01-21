@@ -37,3 +37,7 @@ SAP CommonCryptoLib is the SAP alternative for securing TLS/SSL communication.  
 
 The SAP HANA Client, when it detects the Commoncryptolib, requires then a default **.pse** file named "sapcli.pse", hence will throw an error, if the client tries to establish a scure communication, and the sapcli.pse isn't available and contains the necesary certificates.  Without Commoncryptolib, openssl will handle this with the updated certificates already installed and managed by your Linux or MacOS distribution.
 
+### Information about certificates
+
+* Information article from DigiCert - *[Certificate Extensions Explained](https://knowledge.digicert.com/generalinformation/INFO2824.html)*
+
