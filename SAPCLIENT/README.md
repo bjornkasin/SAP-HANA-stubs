@@ -4,9 +4,16 @@
 
 * Use DBCO and create new connection
 * If this is a HANA connection - see SAP Note *[1983389 - DBCON entry for SAP HANA](https://launchpad.support.sap.com/#/notes/1983389)*
+  ```
+  HOST=<host name>:<SQLPort>[,...,<host name>:<SQLPort>][;SCHEMA=<schema>][;CON_PARAM=<dbparam>,...,<dbparam>]
+
+  HOST = list of <host>:<SQLPort>
+  SCHEMA = Name of default schema
+  CON_PARAM = List of additional parameters for the CONNECT, such as CONNECTTTIMEOUT, ENCRYPT, ...
+  ```
 * If this is a HANA Cloud connection (minimum Hana Client 2.4) - see SAP Note *[2874749 - SLT - SAP HANA Cloud as SLT Target](https://launchpad.support.sap.com/#/notes/2874749)*
   ```
-    HOST=<Endpoint including port>;CON_PARAM=ENCRYPT=<TRUE/FALSE>,sslValidateCertificate=<true/false>
+  HOST=<Endpoint including port>;CON_PARAM=ENCRYPT=<TRUE/FALSE>,sslValidateCertificate=<true/false>
   ```
 
 
