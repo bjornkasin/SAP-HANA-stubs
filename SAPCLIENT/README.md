@@ -18,6 +18,10 @@
 * Check the connection with transaction **SE38** (Run program), and program **ADBC_TEST_CONNECTION**
 * If you get *10.709* errors - see SAP Note *[2213725 - How-To: Troubleshooting of -10709 errors](https://launchpad.support.sap.com/#/notes/2213725)*
 * Run **HDBSQL** from within SAPGUI
+  ```
+  hdbsql -n some-nice-account-id.hana.prod-eu20.hanacloud.ondemand.com:443 -u MYUSER -p MYPASSWORD -j SELECT 1 from DUMMY;
+  ```
+  * Important that you also rpovide a SQL command, or else it will not show the connection and the eventual error
   * SM69 - and then select HDBSQL
     ![screenshot](https://github.com/bjornkasin/SAP-HANA-stubs/blob/main/SAPCLIENT/SM69%20output%20.jpg)
 
