@@ -17,7 +17,8 @@
   ```
 * Check the connection with transaction **SE38** (Run program), and program **ADBC_TEST_CONNECTION**
 * If you get *10.709* errors - see SAP Note *[2213725 - How-To: Troubleshooting of -10709 errors](https://launchpad.support.sap.com/#/notes/2213725)*
-
+* Run **HDBSQL** from within SAPGUI
+  * SM69 - and then select HDBSQL
 
 ### Having the full knowledge og HDBQL connectivity with security
 
