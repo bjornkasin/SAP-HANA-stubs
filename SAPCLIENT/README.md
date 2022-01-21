@@ -15,6 +15,8 @@
   ```
   HOST=<Endpoint including port>;CON_PARAM=ENCRYPT=<TRUE/FALSE>,sslValidateCertificate=<true/false>
   ```
+* Check the connection with trananction **SE38** (Run program), and program **ADBC_TEST_CONNECTION**
+* If you get *10.709* errors - see SAP Note *[2213725 - How-To: Troubleshooting of -10709 errors](https://launchpad.support.sap.com/#/notes/2213725)*
 
 
 ### Having the full knowledge og HDBQL connectivity with security
