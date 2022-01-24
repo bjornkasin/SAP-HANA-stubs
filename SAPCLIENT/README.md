@@ -14,8 +14,8 @@
 * If this is a HANA Cloud connection (minimum Hana Client 2.4) - see SAP Note *[2874749 - SLT - SAP HANA Cloud as SLT Target](https://launchpad.support.sap.com/#/notes/2874749)*
   ```
   HOST=<Endpoint including port>;CON_PARAM=ENCRYPT=<TRUE/FALSE>,sslValidateCertificate=<true/false>
-  ```
-* Check the connection with transaction **SE38** (Run program), and program **ADBC_TEST_CONNECTION**
+  ```RSMSS_ADBC_TEST_CONNECTION** whic provide a detailed trace view.
+* Check the connection with transaction **SE38** (Run program), and program **ADBC_TEST_CONNECTION** - you can also run **RSMSS_ADBC_TEST_CONNECTION** whic provide a detailed trace view.
 * If you get *10.709* errors - see SAP Note *[2213725 - How-To: Troubleshooting of -10709 errors](https://launchpad.support.sap.com/#/notes/2213725)*
 * Run **HDBSQL** from within SAPGUI
   ```
