@@ -6,6 +6,10 @@
 * SAP HANA Connector
 * Microsoft ODBC generic connector
 
+### Making HDI containers available for Classic DB users
+
+See this blog: [The easy way to make your HDI container accessible to a ‘classic’ database user](https://blogs.sap.com/2018/01/24/the-easy-way-to-make-your-hdi-container-accessible-to-a-classic-database-user/)
+
 ### Using the SAP HANA Connector
 
 See Microsoft Docs [Connect to SAP HANA data sources by using DirectQuery in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-sap-hana)
