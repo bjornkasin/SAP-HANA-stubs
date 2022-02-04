@@ -12,7 +12,10 @@ See this blog: [The easy way to make your HDI container accessible to a ‘class
 
 ### Using the SAP HANA Connector
 
-See Microsoft Docs [Connect to SAP HANA data sources by using DirectQuery in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-sap-hana)
+See Microsoft Docs:
+
+* [Connect to SAP HANA data sources by using DirectQuery in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-sap-hana)
+* [Connect to SAP HANA databases in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-sap-hana)
 
 Getting error Access forbidden
 
