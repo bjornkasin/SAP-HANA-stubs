@@ -4,9 +4,11 @@
 *There are two methods to connect to a SAP HANA based datasource using Power BI*
 
 * SAP HANA Connector
-* SMicrosoft ODBC generic connector
+* Microsoft ODBC generic connector
 
 ### Using the SAP HANA Connector
+
+See Microsoft Docs [Connect to SAP HANA data sources by using DirectQuery in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-sap-hana)
 
 Getting error Access forbidden
 
