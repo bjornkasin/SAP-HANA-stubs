@@ -5,6 +5,7 @@
 * [CDS based data extraction – Part I Overview](https://blogs.sap.com/2019/12/13/cds-based-data-extraction-part-i-overview/)
 * [Operational Data Provisioning - FAQ](https://www.sap.com/documents/2017/06/66673acb-c37c-0010-82c7-eda71af511fa.html)
 * [ABAP CDS replication in SAP Data Intelligence](https://blogs.sap.com/2021/01/21/abap-cds-replication-in-data-intelligence/)
+* [Integrating ABAP Function modules with SAP Data Intelligence](https://blogs.sap.com/2021/06/01/integrating-abap-function-modules-with-sap-data-intelligence/)
 
 
 ### BLOGS and Community
