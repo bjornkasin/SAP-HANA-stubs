@@ -1,4 +1,4 @@
-## Useful linke to setyp ABAP integration for SAP Data Intelligence Cloud
+## Useful links to setup ABAP integration for SAP Data Intelligence Cloud
 
 
 * [SAP Data Intelligence ABAP integration with Generation 2 – Part 1 Overview and Introduction](https://blogs.sap.com/2022/02/13/sap-data-intelligence-abap-integration-with-generation-2-part-1-overview-and-introduction/)
