@@ -9,10 +9,15 @@
 
 ### BLOGS and Community
 
+* [SAP Data Intelligence – connecting the Dots …](https://blogs.sap.com/2019/11/21/data-intelligence-hub-connecting-the-dots-.../) - useful and updated blog
 * [SAP Data Intelligence community topic page](https://community.sap.com/topics/data-intelligence)
 * [blogs.sap.com - tag Data Intelligence](https://blogs.sap.com/tags/73555000100800000791)
-* [What’s New in Data Intelligence – Central Blog Post](https://blogs.sap.com/2021/02/17/whats-new-in-sap-data-intelligence-central-blog-post/)
+* [What’s New in Data Intelligence – Central Blog Post](https://blogs.sap.com/2021/02/17/whats-new-in-sap-data-intelligence-central-blog-post/) - everything new
 
 
 ### Code samples
 * https://github.com/topics/sap-data-intelligence
+
+### Generation 2 operators and API
+
+* [SAP Data Intelligence Generation 2 Graphs: Dynamic Tables [Part 1 of 2]](https://blogs.sap.com/2022/01/24/sap-data-intelligence-generation-2-graphs-dynamic-tables-part-1-of-2/)
