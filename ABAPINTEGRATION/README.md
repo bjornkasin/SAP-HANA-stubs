@@ -12,3 +12,7 @@
 * [SAP Data Intelligence community topic page](https://community.sap.com/topics/data-intelligence)
 * [blogs.sap.com - tag Data Intelligence](https://blogs.sap.com/tags/73555000100800000791)
 * [What’s New in Data Intelligence – Central Blog Post](https://blogs.sap.com/2021/02/17/whats-new-in-sap-data-intelligence-central-blog-post/)
+
+
+### Code samples
+* https://github.com/topics/sap-data-intelligence
