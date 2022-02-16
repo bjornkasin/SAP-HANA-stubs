@@ -9,12 +9,16 @@
 * [Finding the right CDS Extractor in SAP S/4HANA](https://blogs.sap.com/2022/01/07/finding-the-right-cds-extractor-in-sap-s-4hana/)
 
 
+![](https://github.com/bjornkasin/SAP-HANA-stubs/blob/main/ABAPINTEGRATION/FR_BLOG_CDSEXTRACTION_2-2.png)
+
+
 ### BLOGS and Community
 
 * [SAP Data Intelligence – connecting the Dots …](https://blogs.sap.com/2019/11/21/data-intelligence-hub-connecting-the-dots-.../) - useful and updated blog
 * [SAP Data Intelligence community topic page](https://community.sap.com/topics/data-intelligence)
 * [blogs.sap.com - tag Data Intelligence](https://blogs.sap.com/tags/73555000100800000791)
 * [What’s New in Data Intelligence – Central Blog Post](https://blogs.sap.com/2021/02/17/whats-new-in-sap-data-intelligence-central-blog-post/) - everything new
+
 
 
 ### Code samples
