@@ -7,3 +7,7 @@
 
 ### Introduction series to SAP HANA Cloud
 * [Getting Started with SAP HANA Cloud (Free Trial)](https://blogs.sap.com/2020/03/28/getting-started-with-sap-hana-cloud/)
+
+
+### SAP HANA project - generating data
+* [GitHUB: SAP/hana-my-thai-star-data-generator](https://github.com/SAP/hana-my-thai-star-data-generator)
