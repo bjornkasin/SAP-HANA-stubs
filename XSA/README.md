@@ -11,3 +11,6 @@
 
 ### SAP HANA project - generating data
 * [GitHUB: SAP/hana-my-thai-star-data-generator](https://github.com/SAP/hana-my-thai-star-data-generator)
+
+### Importing SFLIGHT data into SAP HANA schema
+* [HOWTO – Import SFLIGHT sample data into SAP HANA from a local computer](https://blogs.sap.com/2018/12/18/howto-import-sflight-sample-data-into-sap-hana-from-a-local-computer/)
