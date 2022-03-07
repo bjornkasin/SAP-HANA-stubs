@@ -14,3 +14,7 @@
 
 ### Importing SFLIGHT data into SAP HANA schema
 * [HOWTO – Import SFLIGHT sample data into SAP HANA from a local computer](https://blogs.sap.com/2018/12/18/howto-import-sflight-sample-data-into-sap-hana-from-a-local-computer/)
+
+
+### OpenSAP SAP HANA course
+* [GitHUB: hana-xsa-opensap-hana7](https://github.com/SAP-samples/hana-xsa-opensap-hana7)
