@@ -3,6 +3,7 @@
 
 * [HANA XSA Simplified 4: SAP HANA Database Authorization provisioning for HDI Container roles](https://blogs.sap.com/2020/07/27/hana-xsa-simplified-4-sap-hana-database-authorization-provisioning-for-hdi-container-roles/)
 * [Developing roles in SAPHANA](https://www.sap.com/documents/2018/04/fe086f0d-fa7c-0010-87a3-c30de2ffd8ff.html)
+* [How to access an SAP HANA XSA Container schema from external applications such as NodeJS](https://blogs.sap.com/2019/07/11/how-to-access-an-sap-hana-xsa-container-schema-from-external-applications-such-as-nodejs/)
 
 
 ### Introduction series to SAP HANA Cloud
