@@ -19,3 +19,7 @@
 
 ### OpenSAP SAP HANA course
 * [GitHUB: hana-xsa-opensap-hana7](https://github.com/SAP-samples/hana-xsa-opensap-hana7)
+
+
+### Database schema of Campus WDF buildings - use dBeaver for visualizations
+* [Devtoberfest - Week 5: Data && Analytics - Coding Challenge](https://github.com/sap-tutorials/devtoberfest-2021/blob/main/tutorials/devtoberfest-week-5-codingchallenge/devtoberfest-week-5-codingchallenge.md)
