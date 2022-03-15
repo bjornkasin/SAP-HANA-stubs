@@ -28,6 +28,7 @@
 ### Having the full knowledge og HDBQL connectivity with security
 
 * See this blog: *[Secure connection from HDBSQL to SAP HANA Cloud](https://blogs.sap.com/2020/04/14/secure-connection-from-hdbsql-to-sap-hana-cloud/)*
+* Github - *[Setting up secure client connections to SAP HANA](https://github.com/saphanaacademy/secure-sap-hana-client)*
 * Another blog with excellent info: *[Create a User, Tables and Import Data Using SAP HANA HDBSQL](https://developers.sap.com/tutorials/hana-clients-hdbsql.html)*
 * This blog gives an overview of the sapgenpse utility (Commoncryptolib) - *[Creating arbitrary PSEs using ‘sapgenpse’ command-line tool.](https://blogs.sap.com/2019/02/15/creating-arbitrary-pses-using-sapgenpse-command-line-tool./)*
 * Another blog - *[SAPGENPSE Usage for PSE Files](http://sapbasisinfo.com/blog/2018/02/05/sapgenpse-usage-for-pse-files/)*
